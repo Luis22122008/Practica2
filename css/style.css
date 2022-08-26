@@ -44,6 +44,6 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 
-#texto_especial {
+caption {
     text-align: center;
 }
