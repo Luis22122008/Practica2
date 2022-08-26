@@ -43,3 +43,7 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+#parrafo_especial {
+    text-align: center;
+}
